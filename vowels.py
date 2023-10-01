@@ -15,4 +15,4 @@ for letter in word:
 
 print(sorted(found))
 for k, v in sorted(vowels_dict.items()):
-    print(k, v, end=', ', sep=':')
+    print(k, v, sep=':')
